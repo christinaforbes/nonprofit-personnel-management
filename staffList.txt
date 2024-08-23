@@ -1,0 +1,26 @@
+E,3872,Amir,Patel,32,555-123-4567,amir.patel@email.com,3.8,0,Social Worker
+V,5498,Mei,Chen,28,555-234-5678,mei.chen@email.com,1.5
+E,2165,Alejandro,Rodriguez,35,555-345-6789,alejandro.rodriguez@email.com,4.2,3,Social Worker
+V,7034,Aisha,Khan,-8,555-456-7890,aisha.khan@email.com,2.9
+E,8910,Carlos,Mendoza,40,555-567-8901,carlos.mendoza@email.com,5.4,1,Supervisor
+E,4321,Leila,Abadi,31,555-678-9012,leila.abadi@email.com,6.1,1,Case Manager
+V,6753,Malik,Johnson,29,555-789-0123,malik.johnson@email.com,Error
+V,1248,Isabella,Nguyen,23,555-890-1234,isabella.nguyen@email.com,4.9
+E,9867,Rashid,Al-Farsi,38,555-901-2345,rashid.alfarsi@email.com,3.2,0,Outreach Coordinator
+V,3579,Sophia,Morales,27,555-123-9876,sophia.morales@email.com,1.8
+E,6023,Tariq,Ahmed,33,555-234-8765,tariq.ahmed@email.com,5.7,1,Social Worker
+E,8156,Sanya,Kapoor,30,555-345-7654,sanya.kapoor@email.com,2.3,0,Receptionist
+V,3490,Juanita,Alvarez,37,555-456-6543,juanita.alvarez@email.com,4.6
+V,7682,Ahmed,El-Masry,34,555-567-5432,ahmed.elmasry@email.com,3.5
+E,5301,Olivia,Kim,41,555-678-4321,olivia.kim@email.com,6.3,1,Director
+E,1947,Jamal,Jackson,36,555-789-3210,jamal.jackson@email.com,1.9,1,Receptionist
+V,2806,Fatima,Ibrahim,29,555-890-2109,fatima.ibrahim@email.com,5.2
+E,4532,Andrej,Petrov,32,555-901-1098,andrej.petrov@email.com,4.3,0,Social Worker
+V,9174,Maya,Gupta,5,555-210-9876,maya.gupta@email.com,2.6
+E,6358,Diego,Fernandez,41,555-321-8765,diego.fernandez@email.com,3.9,0,Social Worker
+E,8012,Amara,Chukwu,28,555-432-7654,amara.chukwu@email.com,5.1,1,Outreach Coordinator
+V,3645,Rafael,Costa,39,555-543-6543,rafael.costa@email.com,2.4
+V,9721,Nia,Thompson,26,555-654-5432,nia.thompson@email.com,4.8
+E,1468,Omar,Khalid,31,555-765-4321,omar.khalid@email.com,3.1,0,Social Worker
+E,5893,Kiana,O'Connor,27,555-876-3210,kiana.oconnor@email.com,6.0,1,Supervisor
+Q

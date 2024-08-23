@@ -1,0 +1,189 @@
+EMPLOYEES AND VOLUNTEERS
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Type      ID#       Last Name      First Name     Phone          Email                         Years     Position                 Full Time?
+E         4321      Abadi          Leila          555-678-9012   leila.abadi@email.com         6.1       Case Manager             Yes       
+E         6023      Ahmed          Tariq          555-234-8765   tariq.ahmed@email.com         5.7       Social Worker            Yes       
+E         9867      Al-Farsi       Rashid         555-901-2345   rashid.alfarsi@email.com      3.2       Outreach Coordinator     No        
+E         8012      Chukwu         Amara          555-432-7654   amara.chukwu@email.com        5.1       Outreach Coordinator     Yes       
+E         6358      Fernandez      Diego          555-321-8765   diego.fernandez@email.com     3.9       Social Worker            No        
+E         1947      Jackson        Jamal          555-789-3210   jamal.jackson@email.com       1.9       Receptionist             Yes       
+E         8156      Kapoor         Sanya          555-345-7654   sanya.kapoor@email.com        2.3       Receptionist             No        
+E         1468      Khalid         Omar           555-765-4321   omar.khalid@email.com         3.1       Social Worker            No        
+E         5301      Kim            Olivia         555-678-4321   olivia.kim@email.com          6.3       Director                 Yes       
+E         8910      Mendoza        Carlos         555-567-8901   carlos.mendoza@email.com      5.4       Supervisor               Yes       
+E         5893      O'Connor       Kiana          555-876-3210   kiana.oconnor@email.com       6         Supervisor               Yes       
+E         3872      Patel          Amir           555-123-4567   amir.patel@email.com          3.8       Social Worker            No        
+E         4532      Petrov         Andrej         555-901-1098   andrej.petrov@email.com       4.3       Social Worker            No        
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Type      ID#       Last Name      First Name     Phone          Email                         Years     
+V         3490      Alvarez        Juanita        555-456-6543   juanita.alvarez@email.com     4.6       
+V         5498      Chen           Mei            555-234-5678   mei.chen@email.com            1.5       
+V         3645      Costa          Rafael         555-543-6543   rafael.costa@email.com        2.4       
+V         7682      El-Masry       Ahmed          555-567-5432   ahmed.elmasry@email.com       3.5       
+V         2806      Ibrahim        Fatima         555-890-2109   fatima.ibrahim@email.com      5.2       
+V         3579      Morales        Sophia         555-123-9876   sophia.morales@email.com      1.8       
+V         1248      Nguyen         Isabella       555-890-1234   isabella.nguyen@email.com     4.9       
+V         9721      Thompson       Nia            555-654-5432   nia.thompson@email.com        4.8       
+
+
+
+STAFF TOTALS
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Volunteers:    8         
+Employees:     13        
+Total Staff:   21        
+
+
+
+Successfully added employee: Tyler Scott
+
+
+
+EMPLOYEES
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Type      ID#       Last Name      First Name     Phone          Email                         Years     Position                 Full Time?
+E         1654      Scott          Tyler          555-543-2109   tyler.scott@email.com         1         Social Worker            Yes       
+
+
+
+Successfully added volunteer: Nikita Aosu
+
+
+
+VOLUNTEERS
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Type      ID#       Last Name      First Name     Phone          Email                         Years     
+V         3490      Alvarez        Juanita        555-456-6543   juanita.alvarez@email.com     4.6       
+V         8791      Aosu           Nikita         555-213-4684   nikita.aosu@email.com         1.2       
+V         5498      Chen           Mei            555-234-5678   mei.chen@email.com            1.5       
+V         3645      Costa          Rafael         555-543-6543   rafael.costa@email.com        2.4       
+V         7682      El-Masry       Ahmed          555-567-5432   ahmed.elmasry@email.com       3.5       
+V         2806      Ibrahim        Fatima         555-890-2109   fatima.ibrahim@email.com      5.2       
+V         3579      Morales        Sophia         555-123-9876   sophia.morales@email.com      1.8       
+V         1248      Nguyen         Isabella       555-890-1234   isabella.nguyen@email.com     4.9       
+V         9721      Thompson       Nia            555-654-5432   nia.thompson@email.com        4.8       
+
+
+
+VOLUNTEERS
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Type      ID#       Last Name      First Name     Phone          Email                         Years     
+V         5498      Chen           Mei            555-234-5678   mei.chen@email.com            1.5       
+V         3645      Costa          Rafael         555-543-6543   rafael.costa@email.com        2.4       
+
+
+
+EMPLOYEES AND VOLUNTEERS
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Type      ID#       Last Name      First Name     Phone          Email                         Years     Position                 Full Time?
+E         4321      Abadi          Leila          555-678-9012   leila.abadi@email.com         6.1       Case Manager             Yes       
+E         6023      Ahmed          Tariq          555-234-8765   tariq.ahmed@email.com         5.7       Social Worker            Yes       
+E         9867      Al-Farsi       Rashid         555-901-2345   rashid.alfarsi@email.com      3.2       Outreach Coordinator     No        
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Type      ID#       Last Name      First Name     Phone          Email                         Years     
+V         3490      Alvarez        Juanita        555-456-6543   juanita.alvarez@email.com     4.6       
+V         8791      Aosu           Nikita         555-213-4684   nikita.aosu@email.com         1.2       
+
+
+
+STAFF TOTALS
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Volunteers:    9         
+Employees:     14        
+Total Staff:   23        
+
+
+
+EMPLOYEES
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Type      ID#       Last Name      First Name     Phone          Email                         Years     Position                 Full Time?
+E         4321      Abadi          Leila          555-678-9012   leila.abadi@email.com         6.1       Case Manager             Yes       
+E         6023      Ahmed          Tariq          555-234-8765   tariq.ahmed@email.com         5.7       Social Worker            Yes       
+E         9867      Al-Farsi       Rashid         555-901-2345   rashid.alfarsi@email.com      3.2       Outreach Coordinator     No        
+E         8012      Chukwu         Amara          555-432-7654   amara.chukwu@email.com        5.1       Outreach Coordinator     Yes       
+E         6358      Fernandez      Diego          555-321-8765   diego.fernandez@email.com     3.9       Social Worker            No        
+E         1947      Jackson        Jamal          555-789-3210   jamal.jackson@email.com       1.9       Receptionist             Yes       
+E         8156      Kapoor         Sanya          555-345-7654   sanya.kapoor@email.com        2.3       Receptionist             No        
+E         1468      Khalid         Omar           555-765-4321   omar.khalid@email.com         3.1       Social Worker            No        
+E         5301      Kim            Olivia         555-678-4321   olivia.kim@email.com          6.3       Director                 Yes       
+E         8910      Mendoza        Carlos         555-567-8901   carlos.mendoza@email.com      5.4       Supervisor               Yes       
+E         5893      O'Connor       Kiana          555-876-3210   kiana.oconnor@email.com       6         Supervisor               Yes       
+E         3872      Patel          Amir           555-123-4567   amir.patel@email.com          3.8       Social Worker            No        
+E         4532      Petrov         Andrej         555-901-1098   andrej.petrov@email.com       4.3       Social Worker            No        
+E         1654      Scott          Tyler          555-543-2109   tyler.scott@email.com         1         Social Worker            Yes       
+
+
+
+VOLUNTEERS
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Type      ID#       Last Name      First Name     Phone          Email                         Years     
+V         3490      Alvarez        Juanita        555-456-6543   juanita.alvarez@email.com     4.6       
+V         8791      Aosu           Nikita         555-213-4684   nikita.aosu@email.com         1.2       
+V         5498      Chen           Mei            555-234-5678   mei.chen@email.com            1.5       
+V         3645      Costa          Rafael         555-543-6543   rafael.costa@email.com        2.4       
+V         7682      El-Masry       Ahmed          555-567-5432   ahmed.elmasry@email.com       3.5       
+V         2806      Ibrahim        Fatima         555-890-2109   fatima.ibrahim@email.com      5.2       
+V         3579      Morales        Sophia         555-123-9876   sophia.morales@email.com      1.8       
+V         1248      Nguyen         Isabella       555-890-1234   isabella.nguyen@email.com     4.9       
+V         9721      Thompson       Nia            555-654-5432   nia.thompson@email.com        4.8       
+
+
+
+RESULTS FOR ID NUMBER 6023
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Name: Tariq Ahmed
+Phone Number: 555-234-8765
+Email: tariq.ahmed@email.com
+Position: Social Worker (Full-Time)
+Years at Organization: 5.7
+
+
+
+Successfully removed volunteer with ID number: 7682
+
+
+
+Successfully removed employee with ID number: 5893
+
+
+
+Successfully removed employee with ID number: 4532
+
+
+
+EMPLOYEES AND VOLUNTEERS
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Type      ID#       Last Name      First Name     Phone          Email                         Years     Position                 Full Time?
+E         4321      Abadi          Leila          555-678-9012   leila.abadi@email.com         6.1       Case Manager             Yes       
+E         6023      Ahmed          Tariq          555-234-8765   tariq.ahmed@email.com         5.7       Social Worker            Yes       
+E         9867      Al-Farsi       Rashid         555-901-2345   rashid.alfarsi@email.com      3.2       Outreach Coordinator     No        
+E         8012      Chukwu         Amara          555-432-7654   amara.chukwu@email.com        5.1       Outreach Coordinator     Yes       
+E         6358      Fernandez      Diego          555-321-8765   diego.fernandez@email.com     3.9       Social Worker            No        
+E         1947      Jackson        Jamal          555-789-3210   jamal.jackson@email.com       1.9       Receptionist             Yes       
+E         8156      Kapoor         Sanya          555-345-7654   sanya.kapoor@email.com        2.3       Receptionist             No        
+E         1468      Khalid         Omar           555-765-4321   omar.khalid@email.com         3.1       Social Worker            No        
+E         5301      Kim            Olivia         555-678-4321   olivia.kim@email.com          6.3       Director                 Yes       
+E         8910      Mendoza        Carlos         555-567-8901   carlos.mendoza@email.com      5.4       Supervisor               Yes       
+E         3872      Patel          Amir           555-123-4567   amir.patel@email.com          3.8       Social Worker            No        
+E         1654      Scott          Tyler          555-543-2109   tyler.scott@email.com         1         Social Worker            Yes       
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Type      ID#       Last Name      First Name     Phone          Email                         Years     
+V         3490      Alvarez        Juanita        555-456-6543   juanita.alvarez@email.com     4.6       
+V         8791      Aosu           Nikita         555-213-4684   nikita.aosu@email.com         1.2       
+V         5498      Chen           Mei            555-234-5678   mei.chen@email.com            1.5       
+V         3645      Costa          Rafael         555-543-6543   rafael.costa@email.com        2.4       
+V         2806      Ibrahim        Fatima         555-890-2109   fatima.ibrahim@email.com      5.2       
+V         3579      Morales        Sophia         555-123-9876   sophia.morales@email.com      1.8       
+V         1248      Nguyen         Isabella       555-890-1234   isabella.nguyen@email.com     4.9       
+V         9721      Thompson       Nia            555-654-5432   nia.thompson@email.com        4.8       
+
+
+
+STAFF TOTALS
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Volunteers:    8         
+Employees:     12        
+Total Staff:   20        
+
+
+

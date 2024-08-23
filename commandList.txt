@@ -1,0 +1,24 @@
+A
+T
+N,E,1654,Tyler,Scott,27,555-543-2109,tyler.scott@email.com,1.0,1,Social Worker
+E,S
+F,6753
+N,V,8791,Nikita,Aosu,30,555-213-4684,nikita.aosu@email.com,1.2
+V
+L,5446
+N,E,7956,Peter,James,15,555-021-4489,peter.james@email.com,0.5,0,Social Worker
+V,C
+A,A
+N,V,5843,Claire,Cook,33,555-461-1648,claire.cook@email.com,-5.4
+T
+E
+V
+L,6023
+A,X
+R,7682
+D,5893
+R,2458
+D,4532
+A
+T
+Q

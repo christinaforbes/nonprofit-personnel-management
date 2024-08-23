@@ -1,0 +1,24 @@
+Line: E,2165,Alejandro,Rodriguez,35,555-345-6789,alejandro.rodriguez@email.com,4.2,3,Social Worker
+Error: '3' is an invalid full-time status.
+
+Line: V,7034,Aisha,Khan,-8,555-456-7890,aisha.khan@email.com,2.9
+Error: -8 is an invalid age.
+
+Line: V,6753,Malik,Johnson,29,555-789-0123,malik.johnson@email.com,Error
+Error: stod error.
+
+Line: V,9174,Maya,Gupta,5,555-210-9876,maya.gupta@email.com,2.6
+Error: 5 is an invalid age.
+
+Unable to find volunteer. No volunteers with ID number: 6753.
+
+Unable to find employee. No employees with ID number: 5446.
+
+Unable to add staff member. 15 is an invalid age.
+
+Unable to add staff member. -5.400000 is an invalid number of years.
+
+Unable to print report. No employees or volunteers whose last name starts with X.
+
+Unable to remove volunteer. No volunteers with ID number: 2458.
+
